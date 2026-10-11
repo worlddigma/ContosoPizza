@@ -33,3 +33,4 @@ C:\Users\Айдаш\c#vscode\microsoft-learn\asp.net\ContosoPizza\obj\Debug\net8
 C:\Users\Айдаш\c#vscode\microsoft-learn\asp.net\ContosoPizza\obj\Debug\net8.0\ContosoPizza.pdb
 C:\Users\Айдаш\c#vscode\microsoft-learn\asp.net\ContosoPizza\obj\Debug\net8.0\ContosoPizza.genruntimeconfig.cache
 C:\Users\Айдаш\c#vscode\microsoft-learn\asp.net\ContosoPizza\obj\Debug\net8.0\ref\ContosoPizza.dll
+C:\Users\Айдаш\c#vscode\microsoft-learn\asp.net\ContosoPizza\obj\Debug\net8.0\ContosoPizza.sourcelink.json
